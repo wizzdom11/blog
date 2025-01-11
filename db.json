@@ -6,7 +6,7 @@
         "image": "https://img.freepik.com/free-photo/3d-cryptocurrency-rendering-design_23-2149074561.jpg?ga=GA1.1.759984252.1728911913&semt=ais_hybrid",
         "author": "Wisdom",
         "id": "3",
-         "date":"1"
+         "date":1
       },
       {
         "title": "Fitness",
@@ -15,7 +15,7 @@
         "author": "Wisdom",
         "deletable": false,
         "id": "4",
-         "date": "3"
+         "date": 3
       },
       {
         "id": "Defi",
